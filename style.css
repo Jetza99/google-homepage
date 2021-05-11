@@ -124,8 +124,8 @@ nav {
 
 .btn:hover{
     color: #2D2D2D;
+    border: 1px solid #dddddd;
 
-    border: 1px #878787;
     box-shadow: 0px 3px 8px -1px #D1D1D1;
 }
 
